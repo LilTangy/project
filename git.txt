@@ -1,0 +1,6 @@
+Гит следит за папкой, устанавливает репозиторий: git init
+Конфигурационные команды: git config --local user.name "Ivan"
+													git config --local user.email example@mail.ru
+Проверить commit: git status
+Следить за файлами: git add -A 					/*(-A следить за всеми файлами)*/
+Commit: git commit -a -m"first commit"
