@@ -4,3 +4,4 @@
 Проверить commit: git status
 Следить за файлами: git add -A 					/*(-A следить за всеми файлами)*/
 Commit: git commit -a -m"first commit"
+Просмотреть commitы: git log
